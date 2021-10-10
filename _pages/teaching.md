@@ -18,7 +18,7 @@ author_profile: true
 * Mathematical Finance, MSF  _(Spring 2020)_ 
 * Stochastic Foundations, MSF     _(Fall 2020)_
 * Political Economy, Undergraduate     _(Spring 2020)_
-* Money and Banking, Undergraduate     _(Fall 2017, Spring 2019
+* Money and Banking, Undergraduate     _(Fall 2017, Spring 2019)_
 * Innovation & Intellectual Property, Undergraduate    _(Spring 2018)_
 * Applied Econometrics, Undergraduate     _(Fall 2018, Fall 2019)_
 
