@@ -30,7 +30,7 @@ author_profile: true
 * Chaotic Dynamic System, Undergraduate     _(Fall 2015)_
 
 ## Student Comments (Excerpt)
-* 2019, 2018
+* 2018, 2019
 <p align="center">
   <img src="https://xinyuhou94.github.io/images/4151.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
