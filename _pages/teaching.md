@@ -1,10 +1,12 @@
 ---
-title: 'Instructor'
-permalink: /teaching/Instructor/
-<!-- tags:
-  - cool posts
-  - category1
-  - category2 -->
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
 ---
 
-# Econ 335 Money and Banking
+## Instructor
+Econ 335 Money and Banking
+
+## Teaching Assistant
+
