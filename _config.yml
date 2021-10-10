@@ -149,14 +149,14 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  Contact:
+  contact:
     output: true
     permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
-  # _posts
+  # _CV
   - scope:
       path: ""
       type: CV
@@ -167,7 +167,7 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
+  # _contact
   - scope:
       path: ""
       type: contact
