@@ -206,20 +206,7 @@ permalink: /:categories/:title/
 # paginate_path: /page:num/
 
 
-# Plugins
-gems:
-  - jekyll-paginate
-  # - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jekyll-redirect-from
-# mimic GitHub Pages with --safe
-whitelist:
-  - jekyll-paginate
-  # - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
+
 
 
 # Archives
