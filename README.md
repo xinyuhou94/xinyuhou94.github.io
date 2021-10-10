@@ -1,1 +1,1 @@
-[Welcome to my homepage!](https://xinyuhou94.github.io)
+[Welcome!](https://xinyuhou94.github.io)
