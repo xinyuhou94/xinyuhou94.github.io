@@ -14,7 +14,7 @@ author_profile: true
 
 
 ## Teaching Assistant 
-### WashU
+## _WashU_
 * Mathematical Finance, MSF  _(Spring 2020)_ 
 * Stochastic Foundations, MSF     _(Fall 2020)_
 * Political Economy, Undergraduate     _(Spring 2020)_
@@ -24,7 +24,7 @@ author_profile: true
 
 
 
-### Wuhan
+## _Wuhan_
 * Topology, Undergraduate     _(Spring 2016)_
 * Advanced Macroeconomics, Undergraduate     _(Spring 2016)_
 * Chaotic Dynamic System, Undergraduate     _(Fall 2015)_
