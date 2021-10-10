@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 ## About Me ##
-* I am a Ph.D. candidate in the [Department of Economics](https://economics.wustl.edu/) at Washingtpn University in St. Louis, advised by Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/).
+* I am a Ph.D. candidate in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis, advised by Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/).
 * My research interests lie in law and economics, corporate finance, banking and economic theory.
 
 
