@@ -1,9 +1,6 @@
 
 main:
 
-   - title: "Research"
-     url: /research/
-
    - title: "CV"
      url: /files/xinyu_cv.pdf
 
