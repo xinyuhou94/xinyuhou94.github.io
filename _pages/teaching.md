@@ -34,10 +34,10 @@ author_profile: true
   <img src="https://xinyuhou94.github.io/images/political.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 * Applied Econometrics
-<p align="center">
-  <img src="https://xinyuhou94.github.io/images/4151.png?raw=true" alt="Photo" style="width: 800px;"/> 
-</p>
+
 <p align="center">
   <img src="https://xinyuhou94.github.io/images/4151_1.png?raw=true" alt="Photo" style="width: 808px;"/> 
 </p>
-
+<p align="center">
+  <img src="https://xinyuhou94.github.io/images/4151.png?raw=true" alt="Photo" style="width: 800px;"/> 
+</p>
