@@ -4,7 +4,11 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Washington University, CB 1208 <br>
+One Brookings Dr. <br>
+St. Louis, MO 63130-4899 <br>
+
+Email: hou.xinyu@wustl.edu  <br>
+Office: Seigle L086 <br>
+
 
