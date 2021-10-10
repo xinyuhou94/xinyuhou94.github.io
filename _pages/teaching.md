@@ -29,11 +29,11 @@ author_profile: true
 * Chaotic Dynamic System, Undergraduate     _(Fall 2015)_
 
 ## Student Comments (Excerpt)
-* Political Economy
+* 2020
 <p align="center">
   <img src="https://xinyuhou94.github.io/images/political.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
-* Applied Econometrics
+* 2019, 2018
 
 <p align="center">
   <img src="https://xinyuhou94.github.io/images/4151_1.png?raw=true" alt="Photo" style="width: 808px;"/> 
