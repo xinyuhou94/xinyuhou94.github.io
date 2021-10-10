@@ -25,6 +25,9 @@ New U.S. bankruptcy laws exempt repos and derivatives from the automatic stay an
 [Poster[PDF]](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
+[Preliminary draft[PDF]](http://xinyuhou94.github.io/files/GRRsp210923.pdf)
+
+<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp210923.pdf" width="650" height="1800" type='application/pdf'> -->
 
 
 ###  _Tort Liability and Investment (JMP)_
