@@ -1,0 +1,30 @@
+# main links links
+main:
+
+  - title: "Research"
+    url: /research/
+
+  - title: "CV/Bio"
+    url: /files/xinyu_cv.pdf
+
+
+  # - title: "Awards & Honors"
+  #   url: /awards/
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+   - title: "Teaching"
+     url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blogs"
+  #   url: /year-archive/
+    
+  - title: "Contact"
+    url: /contact/  
+    
+  # - title: "Guide"
+    # url: /markdown/
