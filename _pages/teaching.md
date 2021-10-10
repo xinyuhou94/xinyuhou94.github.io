@@ -28,7 +28,7 @@ author_profile: true
 * Advanced Macroeconomics, Undergraduate     _(Spring 2016)_
 * Chaotic Dynamic System, Undergraduate     _(Fall 2015)_
 
-## Some Comments (Excerpt)
+## Student Comments (Excerpt)
 * Political Economy
 <p align="center">
   <img src="https://xinyuhou94.github.io/images/political.png?raw=true" alt="Photo" style="width: 800px;"/> 
