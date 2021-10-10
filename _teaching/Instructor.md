@@ -1,6 +1,6 @@
 ---
 title: 'Instructor'
-permalink: /teaching/Instructor1/
+permalink: /teaching/Instructor/
 <!-- tags:
   - cool posts
   - category1
