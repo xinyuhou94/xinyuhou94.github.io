@@ -38,6 +38,6 @@ author_profile: true
   <img src="https://xinyuhou94.github.io/images/4151.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
 <p align="center">
-  <img src="https://xinyuhou94.github.io/images/4151_1.png?raw=true" alt="Photo" style="width: 800px;"/> 
+  <img src="https://xinyuhou94.github.io/images/4151_1.png?raw=true" alt="Photo" style="width: 808px;"/> 
 </p>
 
