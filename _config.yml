@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xinyu Hou"
 title_separator          : "-"
 name                     : &name "Xinyu Hou"
-description              : &description "Ph.D. candidate, Economics Department, Washington University in St. Louis"
+description              : &description "Ph.D. candidate, Economics, Washington University in St. Louis"
 url                      : https://xinyuhou94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xinyuhou94/xinyuhou94.github.io"
@@ -51,7 +51,7 @@ atom_feed:
 author:
   name             : "Xinyu Hou"
   avatar           : "xinyu.png"
-  bio              : "Ph.D. Candidate, Economics Department, Washington University in St. Louis"
+  bio              : "Ph.D. Candidate, Economics, Washington University in St. Louis"
   location         : "St. Louis, MO"
   employer         : 
   googlescholar    : 
@@ -63,7 +63,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "xinyuhou94"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
