@@ -33,8 +33,8 @@ author_profile: true
 <p align="center">
   <img src="https://xinyuhou94.github.io/images/political.png?raw=true" alt="Photo" style="width: 800px;"/> 
 </p>
-* 2019, 2018
 
+* 2019, 2018
 <p align="center">
   <img src="https://xinyuhou94.github.io/images/4151_1.png?raw=true" alt="Photo" style="width: 808px;"/> 
 </p>
