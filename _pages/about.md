@@ -13,8 +13,8 @@ redirect_from:
 </p>
 
 ## About Me ##
-* I am a Ph.D. candidate in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis, advised by Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/).
-* My research interests lie in law and economics, corporate finance, banking and economic theory.
+* I am a Ph.D. candidate in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis, under the supervision of Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/). I expect to graduate in May 2022.
+* My research interests lie in Law and Economics, Corporate Finance, Banking and Economic Theory. My research on Law and Economics focuses on bankruptcy, corporate and tort.
 
 
 ### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_
