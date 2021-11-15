@@ -24,13 +24,17 @@ New U.S. bankruptcy laws exempt repos and derivatives from the automatic stay an
 
 [Poster[PDF]](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
-[Preliminary draft[PDF]](http://xinyuhou94.github.io/files/GRRsp210923.pdf)
-<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp210923.pdf" width="650" height="1800" type='application/pdf'> -->
+[Preliminary draft[PDF]](http://xinyuhou94.github.io/files/GRRsp211115.pdf)
+<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp211115.pdf" width="650" height="1800" type='application/pdf'> -->
 
 
 ###  _Tort Liability and Investment (JMP)_
 
 Why limited liability? This paper builds a theoretical framework to study investors' choices of safety and quantity under different liability rules when contracts cannot be made to internalize damages. We find that when the firm's other stakeholders (investors, consumers, employees, suppliers, communities, government, etc.) have a substantial share of benefits in the firm, bearing full liability is socially inefficient because it undermines the incentives to invest in quantity and even halts beneficial projects. Limiting liability externalizes some damages, enhancing social welfare by mitigating the externalization of benefits. With more competition, the equilibrium of full liability converges to the first best, while the equilibria of limited liability (either limited by the limited liability rule or by investors being judgment-proof) deviate from the first best and encourage underinvestment in safety and overinvestment in quantity. Requiring capital installment internalizes some of the damages under the limited liability rule and can give correct incentives when there is enough competition. Yet if deep-pocket investors bear full liability, requiring capital contributes to low quantity and social inefficiency.
+
+[Preliminary draft[PDF]](http://xinyuhou94.github.io/files/Liability211115.pdf)
+<!-- <embed src="http://xinyuhou94.github.io/files/Liability211115.pdf" width="650" height="1800" type='application/pdf'> -->
+
 
 ### _Direct Transfer and Guanxi in Resolving Contract Failure_
 
