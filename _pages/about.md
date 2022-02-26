@@ -14,7 +14,7 @@ redirect_from:
 
 ## About Me ##
 * I am a Ph.D. candidate in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis, under the supervision of Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/). I expect to graduate in May 2022.
-* My research interests lie in Law and Economics, Corporate Finance, Banking and Economic Theory. My research on Law and Economics focuses on bankruptcy, corporate and tort.
+* My research interests lie in Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focuse on corporate bankruptcy and liability.
 
 
 ### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_
@@ -30,7 +30,7 @@ New U.S. bankruptcy laws exempt repos and derivatives from the automatic stay an
 
 ###  _Limited Liability and Investment (JMP)_
 
-Why do firms causing damages enjoy limited liability? This paper builds a theoretical framework to study a firm’s preference for safety and scale under different liability rules. When the firm has positive externalities received by other stakeholders (investors, consumers, employees, suppliers, communities, government, etc.), full liability is socially inefficient because it undermines the incentives to invest in quantity and even halts beneficial projects. Limiting liability externalizes some damages, and may enhance social welfare by mitigating the externalization of benefits, similar to Ramsey pricing. As positive externalities fall, the equilibrium of full liability converges to the first-best, while the equilibria of limited liability (either constrained by the limited liability rule or by investors having small pockets) deviate from the first-best and encourage underinvestment in safety and overinvestment in quantity. Therefore, limited liability is not a one-size-fits-all policy that achieves the optimum for different firms. This opens up possibilities of other rules that would improve incentives.
+Does limited liability on damages improve efficiency?  This paper provides a theoretical model considering firm’s preference for care and scale when the outside stakeholders (consumers, employees, suppliers, communities, governments, etc.) obtain benefits from the firm. The resultsshow that the optimal liability rule trades off damages to the tort claimants against benefits to the outside stakeholders. Full liability provides efficient care but scale is too small because it internalizes all the damages without internalizing all the benefits.  Limited liability has less than efficient care but larger scale than full liability and tends to be more efficient if outside stakeholders havea larger potential value. If this potential value falls (for example, with more competition), the equilibrium with full liability converges to the first best. But it deviates from the first best with limited liability, encouraging low care level and large scale.  Therefore, limited liability is not a one-size-fits-all policy to achieve the optimum for different firms. This opens up possibilities ofother rules to adjust for cross-firm differences.
 
 [Preliminary draft[PDF]](http://xinyuhou94.github.io/files/Liability211115.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/Liability211115.pdf" width="650" height="1800" type='application/pdf'> -->
