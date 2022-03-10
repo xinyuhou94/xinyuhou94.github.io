@@ -14,7 +14,7 @@ redirect_from:
 
 ## About Me ##
 * I am a Ph.D. candidate in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis, under the supervision of Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/). I expect to graduate in May 2022.
-* My research interests lie in Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focuse on corporate bankruptcy and liability.
+* My research interests lie in Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
 
 
 ### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_
