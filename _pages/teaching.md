@@ -15,7 +15,8 @@ author_profile: true
 
 ## Teaching Assistant 
 ### _WashU_
-* Mathematical Finance, MSF  _(Spring 2020)_ 
+* Advanced Continuous-time Finance, PhD  _(Spring 2022)_ 
+* Mathematical Finance, MSF  _(Spring 2020, Spring 2022)_ 
 * Stochastic Foundations, MSF     _(Fall 2020)_
 * Political Economy, Undergraduate     _(Spring 2020)_
 * Applied Econometrics, Undergraduate     _(Fall 2018, Fall 2019)_
