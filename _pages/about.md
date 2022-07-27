@@ -13,14 +13,24 @@ redirect_from:
 </p>
 
 ## About Me ##
-* I am a Ph.D. candidate in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis, under the supervision of Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/). I expect to graduate in May 2022.
+* I am a Postdoc Research Associate at Cambridge Endowment for Research in Finance (CERF), Cambridge Judge Business School. I am also affiliated with Trinity College.
+* In May, 2022, I have earned my Ph.D. in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis, under the supervision of Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/). 
 * My research interests lie in Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
 
 
 ### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_
 (_joint with Philip Dybvig_)
 
-Myers (1977) described how firms can gamble using asset substitution, which is switching to a less efficient and more volatile project. Gambling using derivatives is a sharper instrument, allowing the firm to gamble just to what is needed, and with negligible efficiency loss. We study gambling using derivatives, made more available by recent changes in the bankruptcy law granting repos and other derivatives "superpriority," which is exemption from the automatic stay and clawback in bankruptcy. In our model, "gambling for redemption" operates at small scale and is socially beneficial, while "gambling for ripoff" operates at large scale and is socially inefficient but benefits stockholders at the expense of bondholders. Superpriority laws reduce firm value by making it harder for firms to borrow due to anticipation of gambling for ripoff.
+Myers (1977) described how firms can gamble using asset substitution, which is switching to a less
+efficient and more volatile project. Gambling using derivatives is a sharper instrument, allowing
+the firm to gamble just to what is needed, and with negligible efficiency loss. In our model,
+“gambling for redemption” operates at small scale and is socially beneficial, while “gambling for
+ripoff” operates at large scale and is socially inefficient but benefits firm owners at the expense of
+bondholders. Superpriority laws grant exemptions of derivatives for bankruptcy law, which makes
+more funds available for gambling. This reduces firm value due to difficulty borrowing in the face
+of more gambling for ripoff.
+
+
 
 [Poster[PDF]](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
