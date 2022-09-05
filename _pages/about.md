@@ -16,7 +16,7 @@ redirect_from:
 * I am a Postdoc Research Associate at Cambridge Endowment for Research in Finance (CERF), Cambridge Judge Business School. I am also affiliated with Trinity College.
 * I have earned my Ph.D. in the [Department of Economics](https://economics.wustl.edu/) at Washington University in St. Louis in 2022, under the supervision of Prof. [Philip H. Dybvig](https://dybfin.wustl.edu/). 
 * My research interests lie in Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
-* In my leisure time, I play tennis, do HIIT. I also like cycling, climbing, schetch, and playing Yang Qin (a Chinese musical instrument).
+* In my leisure time, I play tennis, do HIIT. I also like cycling, climbing, sketch, and playing Yang Qin (a Chinese musical instrument).
 
 ### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_
 (_joint with Philip Dybvig_)
