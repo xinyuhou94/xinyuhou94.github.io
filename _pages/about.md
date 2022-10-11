@@ -28,7 +28,7 @@ Myers (1977) described how firms can gamble using asset substitution, which is s
 [Poster[PDF]](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
 [Preliminary draft[PDF]](http://xinyuhou94.github.io/files/GRRsp211115.pdf)
-<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp211115.pdf" width="650" height="1800" type='application/pdf'> -->
+<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp221011.pdf" width="650" height="1800" type='application/pdf'> -->
 
 
 ###  _Limited Liability and Scale (JMP)_
