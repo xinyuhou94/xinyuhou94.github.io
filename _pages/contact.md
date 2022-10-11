@@ -4,11 +4,13 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Washington University, CB 1208 <br>
-One Brookings Dr. <br>
-St. Louis, MO 63130-4899 <br>
+Cambridge Judge Business School <br>
+University of Cambridge <br>
+Trumpington Street <br>
+Cambridge CB2 1AG <br>
+UK <br>
 
-Email: hou.xinyu@wustl.edu  <br>
-Office: Seigle L086 <br>
+Email: x.hou@jbs.cam.ac.uk  <br>
+Voice: +44 7852435578 <br>
 
 
