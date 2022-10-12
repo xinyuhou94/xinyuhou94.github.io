@@ -4,7 +4,7 @@ title: "Xinyu Hou (侯欣妤)"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
 ---
 
 {% include base_path %}
