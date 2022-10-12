@@ -10,8 +10,8 @@ locale                   : "en-UK"
 title                    : "Xinyu Hou"
 title_separator          : "-"
 name                     : &name "Xinyu Hou"
-description              : &description "Research Associate, CERF, Cambridge Judge Business School
-                                   Postdoc affiliated with Trinity College
+description              : &description "Research Associate, CERF, Cambridge Judge Business School,CCFin,
+                                   Trinity College
                              Ph.D. in Economics, Washington University in St. Louis"
 url                      : https://xinyuhou94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,10 +80,14 @@ analytics:
 author:
   name             : "Xinyu Hou"
   avatar           : "xinyu.jpg"
-  bio              : "Research Associate at CERF, Cambridge Judge Business School
-                                   affiliated with Trinity College
-                                   Law and Economics, Corporate Finance Theory
-                             Ph.D. in Economics, Washington University in St. Louis"
+  bio              : " Ph.D. in Economics
+                       Research Associate in Law and Economics, 
+                       Corporate Finance Theory 
+                                   Cambridge Endowment for Research in Finance (CERF), CCFin
+                                   Cambridge Centre for Finance (CCFin)
+                                   the Finance subject group (affiliation)
+                                   Cambridge Judge Business School
+                                   Trinity College (affiliation)"
   location         : "Cambridge, UK"
   employer         : 
   googlescholar    : 
