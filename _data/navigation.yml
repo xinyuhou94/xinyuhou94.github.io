@@ -2,7 +2,7 @@
 main:
 
    - title: "CV"
-     url: /files/xinyu_cv.pdf
+     url: /cv/
 
    - title: "Teaching"
      url: /teaching/    
