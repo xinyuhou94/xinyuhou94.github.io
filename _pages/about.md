@@ -56,3 +56,4 @@ Guanxi (relationship-building in China) has a mixed reputation. It can be used t
 
 ###  _Working in progress: How Deep is Your Pocket?_
 
+In numerous corporate tort litigations, particularly when multiple defendants are implicated, a plaintiff may target a defendant known for their "deep pockets." This choice is influenced not solely by the defendant's actual responsibility or culpability but also by their significant financial capacity to handle hefty judgments or settlements. This raises an intriguing question: How does the financial depth of these "deep pockets" influence an investor's decision to invest in high-risk ventures?
