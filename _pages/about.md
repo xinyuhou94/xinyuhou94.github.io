@@ -13,11 +13,11 @@ redirect_from:
 </p>
 
 ## About Me ##
-* I am a Postdoc Research Associate at Cambridge Endowment for Research in Finance (CERF), Cambridge Judge Business School. 
+* I am a Postdoc Research Associate at Cambridge Endowment for Research in Finance (CERF), Cambridge Judge Business School. [My page there.](https://www.cerf.cam.ac.uk/people/cerf-postdocs/currentpostdocs/xinyu-hou)
 * I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St Louis, where my PhD supervisor was Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). I am currently working on a paper with Prof Dybvig about firm gambling using derivatives under the impact of bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
 * My research interests lie in general Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
 * I am also a Research Associate at Cambridge Centre for Finance (CCFin), and I am affiliated with the Finance subject group at CJBS and Cambridge Trinity College.
-* I am a gym rat (tennis, cycling, climbing, rowing). I also like sketching and playing Yang Qin (a Chinese musical instrument).
+* I am a gym rat (tennis, cycling, climbing, rowing). I also like sketching and playing Yang Qin (a Chinese musical instrument), and doing nothing.
 
 ### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_ 
 (_joint with Philip Dybvig_)
@@ -32,7 +32,7 @@ Asset substitution is gambling by firms switching to less efficient and more vol
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp231026.pdf" width="650" height="1800" type='application/pdf'> -->
 
 
-###  _Limited Liability and Scale (JMP)_
+###  _Limited Liability and Investment (JMP)_
 
 Does limited liability on damages improve efficiency?  This paper provides a theoretical model considering firm’s preference for care and scale when the outside stakeholders (consumers, employees, suppliers, communities, governments, etc.) obtain benefits from the firm. The results show that the optimal liability rule trades off damages to the tort claimants against benefits to the outside stakeholders. Full liability provides efficient care but scale is too small because it internalizes all the damages without internalizing all the benefits.  Limited liability has less than efficient care but larger scale than full liability and tends to be more efficient if outside stakeholders havea larger potential value. If this potential value falls (for example, with more competition), the equilibrium with full liability converges to the first best. But it deviates from the first best with limited liability, encouraging low care level and large scale.  Therefore, limited liability is not a one-size-fits-all policy to achieve the optimum for different firms. This opens up possibilities ofother rules to adjust for cross-firm differences.
 
