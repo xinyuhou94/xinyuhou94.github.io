@@ -28,6 +28,7 @@ Asset substitution is gambling by firms switching to less efficient and more vol
 
 [Poster[PDF] old but fun](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
+
 [Current draft[PDF]](http://xinyuhou94.github.io/files/GRRsp231026.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp231026.pdf" width="650" height="1800" type='application/pdf'> -->
 
