@@ -14,21 +14,21 @@ redirect_from:
 
 ## About Me ##
 * I am a Postdoc Research Associate at Cambridge Endowment for Research in Finance (CERF), Cambridge Judge Business School. 
-* I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St Louis, where my PhD supervisor was Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). I am currently working on a paper with Prof Dybvig which analyzes the incentives of a distressed firm to gamble for redemption or ripoff under the impact of bankruptcy safe harbor protections for financial derivatives (see below).
+* I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St Louis, where my PhD supervisor was Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). I am currently working on a paper with Prof Dybvig about firm gambling using derivatives under the impact of bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
 * My research interests lie in general Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
 * I am also a Research Associate at Cambridge Centre for Finance (CCFin), and I am affiliated with the Finance subject group at CJBS and Cambridge Trinity College.
-* In my leisure time, I do gym and sports (tennis, cycling, climbing). I also like sketching and playing Yang Qin (a Chinese musical instrument).
+* I am a gym rat (tennis, cycling, climbing, rowing). I also like sketching and playing Yang Qin (a Chinese musical instrument).
 
-### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_
+### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_ 
 (_joint with Philip Dybvig_)
 
-Myers (1977) described how firms can gamble using asset substitution, which is switching to a less efficient and more volatile project. Gambling using derivatives is a sharper instrument, allowing the owners to gamble just to what is needed, and with negligible efficiency loss.  In our model, "gambling for redemption" operates at small scale and is socially beneficial, while "gambling for ripoff" operates at large scale and is socially inefficient but benefits firm owners at the expense of bondholders. Superpriority laws grant exemptions of derivatives for bankruptcy law, which makes more funds available for gambling.  This reduces firm value due to difficulty borrowing in the face of more gambling for ripoff.
+Asset substitution is gambling by firms switching to less efficient and more volatile projects. Gambling using derivatives is a sharper instrument, allowing owners to gamble just to what is needed, with negligible efficiency loss. In our results, “gambling for redemption” operates at small scale and is socially beneficial, while “gambling for ripoff” operates at large scale and is socially inefficient but benefits firm owners at the expense of bondholders. Gambling at scale is available in countries with weak legal systems, and in the U.S. for Qualified Financial Contracts (QFCs) granted exemption to bankruptcy provisions by superpriority laws. Availability of gambling at scale reduces firm value due to difficulty borrowing given potential gambling for ripoff.
 
 
 
-[Poster[PDF]](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
+[Poster[PDF] old but fun](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
-[Preliminary draft[PDF]](http://xinyuhou94.github.io/files/GRRsp230505.pdf)
+[Current draft[PDF]](http://xinyuhou94.github.io/files/GRRsp230505.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp230505.pdf" width="650" height="1800" type='application/pdf'> -->
 
 
@@ -46,4 +46,7 @@ Guanxi (relationship-building in China) has a mixed reputation. It can be used t
 
 [Draft[PDF]](http://xinyuhou94.github.io/files/GuanxiTransfer_20201006.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GuanxiTransfer_20201006.pdf" width="650" height="1800" type='application/pdf'> -->
+
+
+###  _Working in progress: How Deep is Your Pocket?_
 
