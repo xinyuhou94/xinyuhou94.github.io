@@ -4,6 +4,8 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+## Workshop (case study)
+* Principles of Finance, MFin, Cambridge _Michaelmas term 2022-2023_
 
 ## Instructor
 * Econ 335 Money and Banking _(Summer 2018)_
