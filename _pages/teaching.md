@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Workshop (case study)
 * Principles of Finance, MFin, Cambridge _(Michaelmas term 2022-2023)_
-* [Eval[PDF]](http://xinyuhou94.github.io/files/MFIN22.pdf)
+[Eval[PDF]](http://xinyuhou94.github.io/files/MFIN22.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/MFIN22.pdf" width="650" height="1800" type='application/pdf'> -->
 
 
