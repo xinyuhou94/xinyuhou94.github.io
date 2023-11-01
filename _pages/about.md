@@ -36,7 +36,7 @@ Asset substitution is gambling by firms switching to less efficient and more vol
 
 
 
-###  _Playing It Safe or Going Big? The Impact of Limited Liability (JMP)_
+###  _Limited Liability: Playing It Safe or Going Big? (JMP)_
 
 Does limited liability on damages improve social efficiency? I show that optimal liability rules trades off tort damages against benefits to outside stakeholders. Full liability promotes care but raises marginal costs, inducing less-than-efficient scale. Limited liability enhances scale but reduces care, proving more efficient than full liability when outside stakeholder value is high. As market competition grows, liability’s impact on scale diminishes, and internalizing more damages would increase efficiency. We conclude that limited liability is not one-size-fits-all; tailored policies like requiring insurance for contractors and nuclear decommissioning trusts (NDTs) can help adjust for cross-firm differences.
 
