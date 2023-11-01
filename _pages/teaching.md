@@ -6,6 +6,9 @@ author_profile: true
 ---
 ## Workshop (case study)
 * Principles of Finance, MFin, Cambridge _(Michaelmas term 2022-2023)_
+* [Eval[PDF]](http://xinyuhou94.github.io/files/MFIN9 Principles of Finance 2022-23 - Class feedback - Lecturer and TA.pdf)
+<!-- <embed src="http://xinyuhou94.github.io/files/MFIN9 Principles of Finance 2022-23 - Class feedback - Lecturer and TA.pdf" width="650" height="1800" type='application/pdf'> -->
+
 
 ## Instructor
 * Econ 335 Money and Banking _(Summer 2018)_
