@@ -1,6 +1,6 @@
 ---
 <!-- layout: archive -->
-title: "Cyndi (Xinyu) Hou (侯欣妤)"
+title: "Xinyu (Cyndi) Hou (侯欣妤)"
 permalink: /cv/
 author_profile: true
 
