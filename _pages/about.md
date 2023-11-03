@@ -14,7 +14,7 @@ redirect_from:
 
 ## About Me ##
 * I am a Postdoc Research Associate at Cambridge Endowment for Research in Finance (CERF) and Cambridge Centre for Finance (CCFin), Cambridge Judge Business School. [My page there.](https://www.cerf.cam.ac.uk/people/cerf-postdocs/currentpostdocs/xinyu-hou)
-* I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St. Louis, where my PhD supervisor was Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). I am currently working on a paper with Prof. Dybvig about firm gambling using derivatives under the impact of "superpriority," which are bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
+* I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St. Louis, where my PhD supervisor is Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). I am currently working on a paper with Prof. Dybvig about firm gambling using derivatives under the impact of "superpriority," which are bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
 * My research interests lie in general Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
 * I am also affiliated with the Finance subject group at CJBS and Cambridge Trinity College.
 * I am a gym rat. I like sketching, playing the YangQin (a Chinese musical instrument), praciticing Aikido, and 无为(wúwéi).
