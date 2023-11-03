@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://xinyuhou94.github.io/images/XinyuHou.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://xinyuhou94.github.io/images/IMG_1445.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 ## About Me ##
