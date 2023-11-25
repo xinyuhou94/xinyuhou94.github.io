@@ -19,18 +19,18 @@ redirect_from:
 * I am also affiliated with the Finance subject group at CJBS and Cambridge Trinity College.
 * I am a gym rat. I like sketching, playing the YangQin (a Chinese musical instrument), praciticing Aikido, and 无为(wúwéi).
 
-### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_ 
+### _Gambling for Redemption or Ripoff, and the Impact of Superpriority (under review)_ 
 (_joint with Philip Dybvig_)
 
-Asset substitution is gambling by firms switching to less efficient and more volatile projects. Gambling using derivatives is a sharper instrument, allowing owners to gamble just to what is needed, with negligible efficiency loss. In our results, “gambling for redemption” operates at small scale and is socially beneficial, while “gambling for ripoff” operates at large scale and is socially inefficient but benefits firm owners at the expense of bondholders. Gambling at scale is available in countries with weak legal systems, and in the U.S. for Qualified Financial Contracts (QFCs) granted exemption to bankruptcy provisions by superpriority laws. Availability of gambling at scale reduces firm value due to difficulty borrowing given potential gambling for ripoff.
+Asset substitution by firms is gambling implemented by switching to inefficient and risky projects. Gambling using derivatives is more precise, gambling only to what is needed, with negligible efficiency loss. Optimal gambling can be small-scale "Gambling for redemption," which is socially beneficial, or large-scale "gambling for ripoff," which is socially inefficient, benefiting firm owners at the expense of bondholders. Gambling at scale is available with weak property rights, or in the U.S. through Qualified Financial Contracts (QFCs) with "superpriority" exemptions from bankruptcy provisions. Availability of gambling at scale reduces firm borrowing and value due to anticipation of gambling for ripoff.
 
 
 
 [Poster[PDF] old but fun](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
 
-[Paper[PDF]](http://xinyuhou94.github.io/files/GRRsp231108.pdf)
-<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp231108.pdf" width="650" height="1800" type='application/pdf'> -->
+[Paper[PDF]](http://xinyuhou94.github.io/files/GRRsp231123JPE.pdf)
+<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp231123JPE.pdf" width="650" height="1800" type='application/pdf'> -->
 
 [Blog: at a glance](https://www.jbs.cam.ac.uk/2022/gambling-for-redemption-or-ripoff/)
 
