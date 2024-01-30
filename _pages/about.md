@@ -17,7 +17,7 @@ redirect_from:
 * I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St. Louis, where my PhD supervisor is Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). I am currently working on a paper with Prof. Dybvig about firm gambling using derivatives under the impact of "superpriority," which are bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
 * My research interests lie in general Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
 * I am also affiliated with the Finance subject group at CJBS and Cambridge Trinity College.
-* I am a gym rat. I do weight lifting, rock climbing, cycling, and tennis. In Cambridge, I start rowing in the Trinity Boat Club and practicing Aikido, a Japanese martial art aiming at overcoming oneself instead of cultivating violence.
+* I am a gym rat. I do weight lifting, rock climbing, cycling, and tennis. In Cambridge, I have been rowing in the Trinity Boat Club and practicing Aikido, a Japanese martial art aiming at overcoming oneself instead of cultivating violence.
 * I like sketching, playing the YangQin (a Chinese musical instrument), and praciticing 无为(wúwéi).
 
 ### _Gambling for Redemption or Ripoff, and the Impact of Superpriority (under review)_ 
