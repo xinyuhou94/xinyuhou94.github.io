@@ -30,8 +30,7 @@ Asset substitution by firms is gambling implemented by switching to inefficient 
 [Poster[PDF] old but fun](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
 
-[Paper[PDF]](http://xinyuhou94.github.io/files/GRRsp231123JPE.pdf)
-<!-- <embed src="http://xinyuhou94.github.io/files/GRRsp231123JPE.pdf" width="650" height="1800" type='application/pdf'> -->
+[Paper[PDF]](https://ssrn.com/abstract=4444093)
 
 [Blog: at a glance](https://www.jbs.cam.ac.uk/2022/gambling-for-redemption-or-ripoff/)
 
@@ -41,8 +40,7 @@ Asset substitution by firms is gambling implemented by switching to inefficient 
 
 Does limited liability on damages improve social efficiency? I show that optimal liability rules trades off tort damages against benefits to outside stakeholders. Full liability promotes care but raises marginal costs, inducing less-than-efficient scale. Limited liability enhances scale but reduces care, proving more efficient than full liability when outside stakeholder value is high. As market competition grows, liability’s impact on scale diminishes, and internalizing more damages would increase efficiency. We conclude that limited liability is not one-size-fits-all; tailored policies like requiring insurance for contractors and nuclear decommissioning trusts (NDTs) can help adjust for cross-firm differences.
 
-[Draft[PDF]](http://xinyuhou94.github.io/files/Liability231031.pdf)
-<!-- <embed src="http://xinyuhou94.github.io/files/Liability231031.pdf" width="650" height="1800" type='application/pdf'> -->
+[SSRN link](https://ssrn.com/abstract=4445718)
 
 [Blog: at a glance](https://www.jbs.cam.ac.uk/2023/limited-shareholder-liability-on-corporate-tort-rethink/)
 
