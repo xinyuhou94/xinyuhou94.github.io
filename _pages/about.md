@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://xinyuhou94.github.io/images/IMG_1444.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://xinyuhou94.github.io/images/xinyuH.jpg?raw=true" alt="Photo" style="width: 450px;"/> 
 </p>
 
 ## About Me ##
 * I am a Postdoc Research Associate at Cambridge Endowment for Research in Finance (CERF) and Cambridge Centre for Finance (CCFin), Cambridge Judge Business School. [My page there.](https://www.cerf.cam.ac.uk/people/cerf-postdocs/currentpostdocs/xinyu-hou)
-* I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St. Louis, where my PhD supervisor is Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). I am currently working on a paper with Prof. Dybvig about firm gambling using derivatives under the impact of "superpriority," which are bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
+* I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St. Louis, where my PhD supervisor is Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). We have been working on a project about firm gambling using derivatives under the impact of "superpriority," which are bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
 * My research interests lie in general Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy and liability.
 * I am also affiliated with the Finance subject group at CJBS and Cambridge Trinity College.
-* I am a gym rat. I do weight lifting, rock climbing, cycling, and tennis. In Cambridge, I have been rowing in the Trinity Boat Club and practicing Aikido, a Japanese martial art aiming at overcoming oneself instead of cultivating violence.
+* I am a gym rat. I do HIIT, functional training, and tennis. In Cambridge, I have been rowing in the Trinity Boat Club and practicing Aikido, a Japanese martial art aiming at overcoming oneself instead of cultivating violence.
 * I like sketching, playing the YangQin (a Chinese musical instrument), and praciticing 无为(wúwéi).
 
-### _Gambling for Redemption or Ripoff, and the Impact of Superpriority (under review)_ 
+### _Gambling for Redemption or Ripoff, and the Impact of Superpriority_ 
 (_joint with Philip Dybvig_)
 
 Asset substitution by firms is gambling implemented by switching to inefficient and risky projects. Gambling using derivatives is more precise, gambling only to what is needed, with negligible efficiency loss. Optimal gambling can be small-scale "Gambling for redemption," which is socially beneficial, or large-scale "gambling for ripoff," which is socially inefficient, benefiting firm owners at the expense of bondholders. Gambling at scale is available with weak property rights, or in the U.S. through Qualified Financial Contracts (QFCs) with "superpriority" exemptions from bankruptcy provisions. Availability of gambling at scale reduces firm borrowing and value due to anticipation of gambling for ripoff.
