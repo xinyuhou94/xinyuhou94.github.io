@@ -30,7 +30,7 @@ Asset substitution by firms is gambling implemented by switching to inefficient 
 [Poster[PDF] old but fun](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
 
-[Paper[PDF]](https://ssrn.com/abstract=4444093)
+[SSRN link](https://ssrn.com/abstract=4444093)
 
 [Blog: at a glance](https://www.jbs.cam.ac.uk/2022/gambling-for-redemption-or-ripoff/)
 
