@@ -7,11 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Xinyu (Cyndi) Hou"
+title                    : "Cyndi (Xinyu) Hou"
 title_separator          : "-"
-name                     : &name "Xinyu (Cyndi) Hou"
-description              : &description "Research Associate, CERF, Cambridge Judge Business School,CCFin,
-                                   Trinity College
+name                     : &name "Cyndi (Xinyu) Hou"
+description              : &description "Visiting Assistant Professor, Indiana University Kelley School of Business
                              Ph.D. in Economics, Washington University in St. Louis"
 url                      : https://xinyuhou94.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,14 +77,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinyu (Cyndi) Hou (she/her)"
+  name             : "Cyndi (Xinyu) Hou (she/her)"
   avatar           : "xinyu.jpg"
-  bio              : "Postdoc Research Associate in Law and Economics, 
+  bio              : "Doing research in Law and Economics, 
                        Corporate Finance Theory"
-  location         : "Cambridge, UK"
-  employer         : "University of Cambridge"
+  location         : "Bloomington, Indiana"
+  employer         : "Indiana University, Kelley School of Business"
   googlescholar    : 
-  email            : "x.hou@jbs.cam.ac.uk"
+  email            : "houxiny@iu.edu"
   uri              : 
   bitbucket        :
   codepen          :
