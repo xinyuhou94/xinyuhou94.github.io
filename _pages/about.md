@@ -52,6 +52,8 @@ Guanxi (relationship-building in China) has a mixed reputation. It can be used t
 [Draft[PDF]](http://xinyuhou94.github.io/files/GuanxiTransfer_20201006.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GuanxiTransfer_20201006.pdf" width="650" height="1800" type='application/pdf'> -->
 
+[Blog: at a glance](https://www.jbs.cam.ac.uk/2024/unveiling-guanxi-resolving-contract-failure/)
+
 
 ###  _Work in progress: How Deep is Your Pocket?_
 
