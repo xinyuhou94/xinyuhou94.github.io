@@ -4,12 +4,12 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Cambridge Judge Business School <br>
-University of Cambridge <br>
-11/12 Trumpington Street <br>
-Cambridge CB2 1AG <br>
-UK <br>
+Department of Finance <br>
+1309 E. Tenth Street <br>
+Suite 6100 <br>
+Bloomington, IN 47405 <br>
+US <br>
 
-Email: x.hou@jbs.cam.ac.uk  <br>
+Email: houxiny@iu.edu  <br>
 
 
