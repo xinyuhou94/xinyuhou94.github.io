@@ -13,7 +13,7 @@ redirect_from:
 </p>
 
 ## About Me ##
-* I am a Visiting Assistant Professor at Indiana University, Kelley School of Business. Before that, I was a Postdoc Research Associate at The University of Cambridge (UK). It was a wonderful time working with fellows in Cambridge Endowment for Research in Finance (CERF) and Cambridge Centre for Finance (CCFin), Cambridge Judge Business School. [My page there.](https://www.cerf.cam.ac.uk/people/cerf-postdocs/currentpostdocs/xinyu-hou)
+* I am a Visiting Assistant Professor at Indiana University, Kelley School of Business. Before that, I was a Postdoc Research Associate at The University of Cambridge (UK). It was a wonderful time working with fellows in Cambridge Endowment for Research in Finance (CERF) and Cambridge Centre for Finance (CCFin), Cambridge Judge Business School. 
 * I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St. Louis, where my PhD supervisor is Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). We have been working on a project about firm gambling using derivatives under the impact of "superpriority," which are bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
 * My research interests lie in general Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy, liability and firm monopsony power.
 * I was also affiliated with Cambridge Trinity College.
