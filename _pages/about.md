@@ -15,15 +15,14 @@ redirect_from:
 ## About Me ##
 * I am a Visiting Assistant Professor at Indiana University, Kelley School of Business. Before that, I was a Postdoc Research Associate at The University of Cambridge (UK). It was a wonderful time working with fellows in Cambridge Endowment for Research in Finance (CERF) and Cambridge Centre for Finance (CCFin), Cambridge Judge Business School. 
 * I completed my BA (Economics) and BS (Mathematics) at Wuhan University, and PhD in Economics at Washington University in St. Louis, where my PhD supervisor is Nobel Prize laureate [Philip H. Dybvig](https://dybfin.wustl.edu/). We have been working on a project about firm gambling using derivatives under the impact of "superpriority," which are bankruptcy safe harbor protections for qualified financial contracts (QFCs). See below.
-* My research interests lie in general Law and Economics, Corporate Finance, Banking and Economic Theory. My current works focus on corporate bankruptcy, liability and firm monopsony power.
+* My research interests lie in general Law and Economics and Corporate Finance Theory. My current works focus on corporate bankruptcy, liability and firm monopsony power.
 * I was also affiliated with Cambridge Trinity College.
-* I do CrossFit outside of work. In Cambridge, I rowed in the Trinity Boat Club and practiced Aikido, a Japanese martial art aiming at overcoming oneself instead of cultivating violence.
-* I like sketching, playing the YangQin (a Chinese musical instrument), and praciticing 无为(wúwéi).
+* I do CrossFit outside of work. I like sketching, playing the YangQin (a Chinese musical instrument), and praciticing 无为(wúwéi).
 
 ### _[Gambling for Redemption or Ripoff, and the Impact of Superpriority](https://ssrn.com/abstract=4444093)_ 
 (_joint with [Philip H. Dybvig](https://dybfin.wustl.edu/)_)
 
-Asset substitution by firms is gambling implemented by switching to inefficient and risky projects. Gambling using derivatives is more precise, gambling only to what is needed, with negligible efficiency loss. Optimal gambling can be small-scale "Gambling for redemption," which is socially beneficial, or large-scale "gambling for ripoff," which is socially inefficient, benefiting firm owners at the expense of bondholders. Gambling at scale is available with weak property rights, or in the U.S. through Qualified Financial Contracts (QFCs) with "superpriority" exemptions from bankruptcy provisions. Availability of gambling at scale reduces firm borrowing and value due to anticipation of gambling for ripoff.
+Asset substitution by firms is gambling implemented by switching to inefficient and risky projects. Gambling using derivatives is more precise, gambling only to what is needed, with negligible efficiency loss. Optimal gambling can be small-scale "Gambling for redemption," which benefits both owners and (surprisingly) bondholders, or large-scale "gambling for ripoff," which benefits owners but hurts bondholders. Gambling at scale is available under weak property rights or in the U.S. with Qualified Financial Contracts (QFCs), which have "superpriority" in bankruptcy. The anticipation of gambling at scale reduces firm borrowing and overall value.
 
 [Poster[PDF] old but fun](http://xinyuhou94.github.io/files/GRRsp_poster.pdf)
 <!-- <embed src="http://xinyuhou94.github.io/files/GRRsp_poster.pdf" width="650" height="1800" type='application/pdf'> -->
