@@ -11,6 +11,14 @@ author_profile: true
 
 
 ## Instructor
+### _Indiana University_
+* BUS-F303 Intermediate Investments _(Fall 2024-2026, Spring 2025-2026)_
+
+[Syllabus[PDF]](http://xinyuhou94.github.io/files/F303_SyllabusSP26.pdf)
+<!-- <embed src="http://xinyuhou94.github.io/files/F303_SyllabusSP26.pdf" width="650" height="1800" type='application/pdf'> -->
+
+
+### _WashU_
 * Econ 335 Money and Banking _(Summer 2018)_
 
 [Syllabus[PDF]](http://xinyuhou94.github.io/files/Econ335_2018SUM_syllabus.pdf)
