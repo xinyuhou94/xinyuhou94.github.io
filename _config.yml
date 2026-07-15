@@ -78,11 +78,11 @@ analytics:
 # Site Author
 author:
   name             : "Cyndi (Xinyu) Hou (she/her)"
-  avatar           : "images/CyndiCF.jpeg"
+  avatar           : "CyndiCF.jpeg"
   bio              : "Doing research in Law and Economics, 
                        Corporate Finance Theory"
   location         : "Bloomington, Indiana"
-  employer         : "Indiana University, Kelley School of Business"
+  employer         : "IU, Kelley School of Business"
   googlescholar    : 
   email            : "houxiny@iu.edu"
   uri              : 
@@ -90,20 +90,13 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : https://www.facebook.com/people/Xinyu-Hou/100007260519162/
   foursquare       :
   github           : "xinyuhou94"
   google_plus      :
   keybase          :
-  instagram        : https://www.instagram.com/xinyuisafish/
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/cyndi-xinyu-hou-9b26198b
   orcid            : https://orcid.org/0000-0002-1756-0771
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
   twitter          : 
   vine             :
   weibo            :
